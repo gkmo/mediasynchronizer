@@ -1,0 +1,1 @@
+{"packagePrefix":"gkmo.mediasynchronizer","lastDeploymentRegionId":"us-east-2","regionConfig":{"us-east-2":{"bucket":"elasticbeanstalk-us-east-2-302231933894","stack":"AwsMediaSinchronizer-stack"}}}
